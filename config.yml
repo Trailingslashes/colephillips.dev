@@ -1,5 +1,5 @@
 baseURL: "https://colephillips.dev"
-title: ExampleSite
+title: colephillips.dev
 paginate: 5
 theme: PaperMod
 
@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: ""
 
 minify:
   disableXML: true
@@ -16,10 +16,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: colephillips.dev
+  description: ""
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Cole Phillips
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -77,12 +77,10 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    - name: linkedin
+      url: https://www.linkedin.com/in/cole--phillips/
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/trailingslashes"
 
   analytics:
     google:
@@ -122,10 +120,10 @@ menu:
       name: tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
+    # - identifier: example
+    #   name: example.org
+    #   url: https://example.org
+    #   weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
