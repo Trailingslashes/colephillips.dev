@@ -83,12 +83,10 @@ params:
 
   # profile-mode
   profileMode:
-    # Needs to be explicitly set
     enabled: true
     title: Cole Phillips
-    # I changed this to use HTML instead of Markdown in index_profile.html
-    subtitle: ""
-    imageUrl: "/me.png"
+    subtitle: "A penetration tester passionate about offensive and defensive security. I use this site to share some of my thoughts."
+    imageUrl: "/images/me.png"
     imageWidth: 150
     imageHeight: 150
     imageTitle: Picture of me
