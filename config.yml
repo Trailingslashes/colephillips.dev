@@ -78,7 +78,7 @@ params:
   # Logo and name shown on top left of site
   label:
     text: "Cole Phillips"
-    icon: -
+    icon: test.png
     iconHeight: 35
 
   # profile-mode
