@@ -121,7 +121,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "G-BZ5NVZQWDT"
+      SiteVerificationTag: G-BZ5NVZQWDT
 
   cover:
     linkFullImages: true
