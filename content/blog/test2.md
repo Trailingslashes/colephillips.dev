@@ -1,3 +1,0 @@
----
-title: my third post
----

@@ -10,7 +10,7 @@ buildFuture: false
 buildExpired: false
 pluralizeListTitles: false
 
-googleAnalytics: ""
+googleAnalytics: G-BZ5NVZQWDT
 
 minify:
   disableXML: true
@@ -121,7 +121,7 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "G-BZ5NVZQWDT"
 
   cover:
     linkFullImages: true

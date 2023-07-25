@@ -1,17 +1,15 @@
 ---
-title: "My 1st post"
-date: 2020-09-15T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
-tags: ["first"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
+title: "Building an Active Directory Lab in Proxmox"
+date: 2020-07-25
+weight: 1
+tags: ["homelab", "windows", "active directory"]
+author: "Cole Phillips"
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "AD Lab Setup"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -35,3 +33,9 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+## 1. ISO Downloads
+
+## 2. Usage tips
+
+sometext
