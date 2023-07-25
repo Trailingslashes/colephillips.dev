@@ -1,4 +1,0 @@
-baseURL = 'https://colephillips.dev'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "PaperMod"
