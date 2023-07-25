@@ -123,13 +123,13 @@ params:
     google:
       SiteVerificationTag: "XYZabc"
 
-  cover:
-    linkFullImages: true
-    # Hide everywhere but not in structured data
-    hidden: false
-    # Hide in list view
-    hiddenInList: false
-    hiddenInSingle: true
+  # cover:
+  #   linkFullImages: true
+  #   # Hide everywhere but not in structured data
+  #   hidden: false
+  #   # Hide in list view
+  #   hiddenInList: false
+  #   hiddenInSingle: true
 
   editPost:
     URL: "https://github.com/trailingslashes/colephillips.dev/edit/main/content"
