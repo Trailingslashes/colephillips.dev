@@ -100,12 +100,12 @@ params:
       - name: Resume
         url: /resume
 
-  # # home-info mode
-  # homeInfoParams:
-  #   Title: "Hi there \U0001F44B"
-  #   Content: |
-  #     Welcome to my blog
-  #     Multi-line string with \n separating them
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: |
+      Welcome to my blog
+      Multi-line string with \n separating them
 
   socialIcons:
     # - name: cv
@@ -123,13 +123,13 @@ params:
     google:
       SiteVerificationTag: "XYZabc"
 
-  # cover:
-  #   linkFullImages: true
-  #   # Hide everywhere but not in structured data
-  #   hidden: false
-  #   # Hide in list view
-  #   hiddenInList: false
-  #   hiddenInSingle: true
+  cover:
+    linkFullImages: true
+    # Hide everywhere but not in structured data
+    hidden: false
+    # Hide in list view
+    hiddenInList: false
+    hiddenInSingle: true
 
   editPost:
     URL: "https://github.com/trailingslashes/colephillips.dev/edit/main/content"
