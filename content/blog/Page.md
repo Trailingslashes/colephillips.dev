@@ -10,7 +10,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "AD Lab Setup"
-canonicalURL: "http://localhost:1313/blog/page/"
+canonicalURL: "http://colephillips.dev/blog/page/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -23,7 +23,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
+    image: "/static/images/logo-active-directory.png" # image path/url
     alt: "<alt text>" # alt text
     caption: "my caption" # display caption under cover
     relative: false # when using page bundles set this to true
