@@ -69,16 +69,16 @@ params:
     # https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
     # Note: Do not enable this. May not work correctly due to some code theme changes made in or around
     # https://github.com/jesse-wei/jessewei.dev-PaperMod/commit/bcadfdde8e12a2a9f9ed853f9939695797b31739
-    disableHLJS: true
+    disableHLJS: false
+    favicon: "/assets/favicon.ico"
     # disableFingerprinting: true
-
     # https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-faq/#adding-custom-favicons
     # static/ {favicon.ico, favicon-16x16.png, favicon-32x32.png, apple-touch-icon.png, safari-pinned-tab.svg} automatically detected
 
   # Logo and name shown on top left of site
   label:
     text: "Cole Phillips"
-    icon: test.png
+    icon: 
     iconHeight: 35
 
   # profile-mode
