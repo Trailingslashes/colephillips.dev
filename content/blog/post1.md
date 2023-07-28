@@ -1,11 +1,11 @@
 ---
 title: "Building an Active Directory lab in Proxmox"
-date: 2020-07-25
+date: 2023-07-25
 weight: 1
 tags: ["homelab", "windows", "active directory", guide]
 author: "Cole Phillips"
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 comments: false
