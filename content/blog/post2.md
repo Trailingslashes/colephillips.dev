@@ -50,4 +50,4 @@ Some of the features I love:
 
 I have a basic template that I work from in Trilium any time I want to do a CTF. I recommend you give it a try. Another popular app that has similar features is [Obsidian](https://obsidian.md).
 
-![Note template](/static/images/blog/post2/notes.png)
+![Note template](/images/blog/post2/notes.png)
