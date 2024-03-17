@@ -21,7 +21,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Cole Phillips
   # This is shown when website is posted in Discord and other socials
-  description: "Cybersecurity enthusiast | Welcome to my website!"
+  description: "Welcome to my website!"
   keywords: [Cole Phillips, Blog, Portfolio]
   author: "Cole Phillips"
   # Image displayed when posting site link on socials
@@ -85,7 +85,7 @@ params:
   profileMode:
     enabled: true
     title: Cole Phillips
-    subtitle: "A penetration tester passionate about offensive and defensive security. I use this site to share some of my thoughts."
+    subtitle: " - "
     imageUrl: "/images/me.png"
     imageWidth: 150
     imageHeight: 150
