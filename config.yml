@@ -85,7 +85,7 @@ params:
   profileMode:
     enabled: true
     title: Cole Phillips
-    subtitle: " - "
+    subtitle: "-"
     imageUrl: "/images/me.png"
     imageWidth: 150
     imageHeight: 150
