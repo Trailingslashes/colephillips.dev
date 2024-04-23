@@ -96,7 +96,7 @@ params:
       - name: Projects
         url: /projects
       - name: Resume
-        url: /resume.pdf
+        url: /blog
 
   # home-info mode
   homeInfoParams:
